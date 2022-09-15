@@ -1,2 +1,2 @@
 # demo
-to study AWS
+To study AWS CodeCommit and CodeBuild
