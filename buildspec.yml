@@ -8,7 +8,7 @@ phases:
   build:
     commands:
       - echo Build started on `date` 
-      - python3 hello.py
+      - python hello.py
       - echo Completed build
  
 
